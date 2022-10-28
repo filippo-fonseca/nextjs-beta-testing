@@ -1,7 +1,7 @@
 import React from 'react';
 
 const IssuesPage = () => {
-  return <h1>The Issues Page</h1>;
+  return <p>Please select an issue</p>;
 };
 
 export default IssuesPage;
